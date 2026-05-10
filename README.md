@@ -33,6 +33,7 @@ Luac0re is a [mast1c0re](https://cturt.github.io/mast1c0re.html) variation that 
 * **[Dr.Yenyen](https://github.com/DrYenyen)** - Testing and validation
 * **[TheFlow](https://github.com/theofficialflow)** - Original netcontrol kernel exploit 
 * **[egycnq](https://github.com/egycnq)** - Porting netcontrol kernel exploit to Luac0re
+* **[cheburek3000](https://github.com/cheburek3000)** - Porting p2jb kernel exploit to Luac0re
 
 ## Disclaimer
 
